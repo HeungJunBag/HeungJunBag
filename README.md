@@ -23,6 +23,34 @@
 
 ---
 
+### 🌌 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/sangwoo4/gesture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangwoo4&repo=gesture&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/sangwoo4/ghostouch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangwoo4&repo=ghostouch&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/sangwoo4/popup-store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangwoo4&repo=popup-store&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/sangwoo4/ppurio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangwoo4&repo=ppurio&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/doyun034/SeoulTravel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doyun034&repo=SeoulTravel&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 🌌 Mission Logs
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heungjunbag&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
